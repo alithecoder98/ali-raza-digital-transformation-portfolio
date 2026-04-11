@@ -2,14 +2,14 @@
   "version": 2,
   "builds": [
     {
-      "src": "ali_raza_portfolio_v2.html",
+      "src": "index.html.html",
       "use": "@vercel/static"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/ali_raza_portfolio_v2.html"
+      "dest": "/index.html"
     }
   ]
 }
