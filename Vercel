@@ -4,7 +4,7 @@
   "routes": [
     {
       "src": "/",
-      "dest": "/index.html"
+      "dest": "/ali_raza_portfolio_v2.html"
     }
   ]
 }
