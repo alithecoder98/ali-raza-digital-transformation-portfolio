@@ -1,9 +1,14 @@
 {
   "version": 2,
-  "outputDirectory": ".",
+  "builds": [
+    {
+      "src": "ali_raza_portfolio_v2.html",
+      "use": "@vercel/static"
+    }
+  ],
   "routes": [
     {
-      "src": "/",
+      "src": "/(.*)",
       "dest": "/ali_raza_portfolio_v2.html"
     }
   ]
