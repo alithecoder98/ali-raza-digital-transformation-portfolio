@@ -1,110 +1,49 @@
-# 🚀 Ali Raza — AI Portfolio
+# Ali Raza — Portfolio
 
-A modern, high-end personal portfolio showcasing my journey from **Telecom Engineering → Project Management → AI & Data Systems**.
+Personal portfolio of **Ali Raza**, a business-to-technology transformation specialist working across **AI automation, AI product delivery, and technical project management**.
 
-Designed with a premium aesthetic and built to reflect real-world impact across **AI, cloud, data, and digital transformation**.
+**Live site:** [ali-raza-digital-transformation-por.vercel.app](https://ali-raza-digital-transformation-por.vercel.app)
 
----
+## Positioning
 
-## 🌐 Live Demo
+> Turning business challenges into intelligent solutions.
 
-👉 *(Add your Vercel link here after deployment)*
+5+ years across telecom infrastructure delivery, enterprise banking operations, and AI solution delivery. Ali brings business process understanding together with practical AI, automation, and delivery skills.
 
----
+## Highlights
 
-## 👤 About Me
+- **35% faster** operational decision-making through Power BI KPI/SLA dashboards
+- **~70% reduction** in recurring operational issues through incident standardization
+- **~45 minutes per reporting cycle** saved by automating start-of-shift reporting (runs every 8 hours)
+- **95% on-time** completion and **100% client acceptance** across 3 large-scale telecom deployments
 
-I’m a **Project Management & Strategy Professional** with 4+ years of experience in:
+## Site structure
 
-* Digital Transformation
-* AI & Process Automation
-* Data-Driven Decision Systems
-* Telecom & Infrastructure
+| Section | Content |
+| --- | --- |
+| Home | Positioning, specializations, key outcomes |
+| What I do | Three pillars, AI product lifecycle, approach to AI solutions |
+| Work | Case studies (expandable), operational results, AI prototypes and research |
+| Experience | VEYN AI, Blutech Consulting, Spine Engineering |
+| Stack | Tools by capability and depth of use |
+| Education | MSc Data Science, B.E. Electrical Engineering, AZ-104, training |
+| Contact | Email, LinkedIn, GitHub, résumé download |
+## Tech
 
-I specialize in bridging:
+A single static `index.html`: hand-written HTML, CSS, and vanilla JS with no build step. It has dark and light themes, a responsive layout, and supports reduced motion.
 
-> **Infrastructure + Data + Intelligence → Scalable Systems**
+### Files
 
-From managing telecom deployments to building **LLM pipelines and AI workflows**, my work sits at the intersection of **technology execution and strategic delivery**.
+- `index.html`: the site
+- `og-image.png`: preview image for LinkedIn and other social shares (1200×630)
+- `Ali-Raza-Resume.pdf`: the résumé download linked from the site
 
----
+### Deploy
 
-## ⚡ Key Highlights
+Import the repo into Vercel as a static project. No configuration is needed.
 
-* 🚀 Delivered solutions **40% faster** through workflow optimization
-* 🔧 Reduced recurring issues by **70%** using automation
-* 📊 Improved decision-making speed by **35%** with KPI dashboards
-* 📡 Achieved **95% on-time delivery** in telecom infrastructure projects
+## Contact
 
----
-
-## 🧠 What This Portfolio Showcases
-
-* AI & Automation Projects (RAG, LLMs, Agents)
-* Data Pipelines & Analytics Work
-* Cloud & Infrastructure Knowledge
-* Project Management & Delivery Impact
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-
-* HTML5, CSS3
-* Modern UI/UX (Glassmorphism + Dark Theme)
-
-### 🎨 Design
-
-* Custom CSS Variables
-* Gradient Systems
-* Responsive Layout
-
-### ⚙️ Deployment
-
-* Vercel (recommended)
-
----
-
-## 📂 Featured Projects
-
-### 🔹 LangGraph RAG Chatbot
-
-* Domain-aware Q&A system using RAG pipelines
-* Built with LangGraph + vector databases
-
-### 🔹 Resume Screener (Gemini + FAISS)
-
-* AI-powered candidate ranking system
-* End-to-end pipeline from PDF → AI → scoring
-
-### 🔹 Multi-LLM Orchestration System
-
-* Unified abstraction for OpenAI, Claude, Gemini
-* Stateful conversation handling
-
-### 🔹 AI Agent Workflows
-
-* Multi-step task automation using LLMs
-* Agentic system design with real-world use cases
-
----
-
-## 🎯 Vision
-
-I’m currently focused on building:
-
-* AI-powered business systems
-* Intelligent automation workflows
-* Data-driven decision platforms
-* Scalable cloud-native architectures
-
----
-
-## 📬 Contact
-
-* 📧 Email: [aleerazaa30@gmail.com](mailto:aleerazaa30@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/engraliraza1/
-* 💻 GitHub: https://github.com/alithecoder98
-
----
+- Email: [aleerazaa30@gmail.com](mailto:aleerazaa30@gmail.com)
+- LinkedIn: [linkedin.com/in/engraliraza1](https://www.linkedin.com/in/engraliraza1/)
+- GitHub: [github.com/alithecoder98](https://github.com/alithecoder98)
